@@ -28,4 +28,11 @@
         android:layout_toEndOf="@+id/textView"
         android:layout_marginBottom="138dp" />
 
+    <RadioGroup
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="70dp"></RadioGroup>
+
 </RelativeLayout>
